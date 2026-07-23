@@ -1,0 +1,22 @@
+# === Python 缓存 ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# === 本地记忆/状态（不入库） ===
+.workbuddy/
+.qclaw/
+
+# === 二进制/探测产物（无法通过文本 API 推送） ===
+*.png
+*.jpg
+*.jpeg
+*.gif
+qclaw_probe/
+
+# === 编辑器 ===
+.vscode/
+.idea/
+*.swp
