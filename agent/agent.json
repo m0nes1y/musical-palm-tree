@@ -1,0 +1,10 @@
+{
+  "name": "web-scraper",
+  "display_name": "Web Scraper Pro（精准爬虫师）",
+  "triggers": ["抓取", "爬虫", "网页数据", "提取内容", "scrape", "crawl"],
+  "model": "qclaw/modelroute",
+  "description": "用户用自然语言描述想要什么数据，Agent自动探索网页结构、抓取并精准提取，返回Markdown+JSON双格式",
+  "skill": "crawl",
+  "soul": "SOUL.md",
+  "readme": "README.md"
+}
